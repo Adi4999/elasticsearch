@@ -37,7 +37,7 @@ ifeval::["{release-state}"!="unreleased"]
 
 Download the `.zip` archive for {es} {version} from: https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-{version}-windows-x86_64.zip
 
-Unzip it with your favorite unzip tool. This will create a folder called
+Unzip it with your prefred unzip tool. This will create a folder called
 +elasticsearch-{version}+, which we will refer to as `%ES_HOME%`. In a terminal
 window, `cd` to the `%ES_HOME%` directory, for instance:
 
